@@ -1,0 +1,46 @@
+register*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container{
+   text-align: left;
+   align-items: center;
+   display: block;
+   padding: 10px 10px 10px 10px;
+   margin-left: 15px;
+   width:40%;
+    }
+  
+  
+   .container  form input {
+    height: 50px;
+    display: block;
+    line-height: 50px;
+    text-align: center;
+    align-items: center;
+    width: 450px;
+    padding: 5px;
+  
+    }
+  
+    .container  form select {
+      height: 50px;
+      display: block;
+      line-height: 50px;
+      text-align: center;
+      width: 450px;
+      padding: 0 16px;
+      margin-bottom: 1em;
+      }
+  
+    .button{
+      text-align: left;
+      cursor: pointer;
+    }
+  
+  p {
+      color: red;
+      line-height: 1.5em;
+    }
